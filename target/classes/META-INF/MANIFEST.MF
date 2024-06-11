@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 22
+Specification-Title: projeto-santander-2024
+Specification-Version: 0.0
+Implementation-Title: projeto-santander-2024
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.br.thiago.projeto_santander_2024.ProjetoSantander2024App
+ lication
+Created-By: Maven Integration for Eclipse
+
